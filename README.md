@@ -132,7 +132,7 @@ This project includes a full GitHub Actions workflow that:
 
 **Siddhant Suhas Gujrathi**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gujrathi-siddhant/)
-💻 [Portfolio](https://siddhantgujrathi.github.io](https://siddhant-gujrathi.vercel.app/)  
+💻 [Portfolio](https://siddhant-gujrathi.vercel.app/)  
 🐙 GitHub: [@SiddhantGujrathi](https://github.com/SiddhantGujrathi)
 
 ---
