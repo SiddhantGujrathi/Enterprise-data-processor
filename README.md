@@ -39,8 +39,9 @@ Base URL: `http://<host>:8080/api/data`
 
 | Method | Endpoint     | Description             |
 |--------|--------------|-------------------------|
-| POST   | `/add`       | Add and process new data|
-| GET    | `/all`       | Fetch all records       |
+| POST   | `/bulk`       | Add and process multiple data records concurrently|
+| GET    | `/`       | Fetch all records       |
+| GET    | `/{id}`       | Fetch a single data record by its ID       |
 
 ### Sample JSON Input
 ```json
